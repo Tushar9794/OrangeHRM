@@ -1,27 +1,30 @@
-# OrangeHRM
-This repository contains the manual testing documentation for the OrangeHRM application. The testing process includes functional, UI, and regression testing for various HR modules.<br>
+🧡 OrangeHRM Manual Testing Documentation
+Welcome to the OrangeHRM Testing Repository! This project contains manual testing artifacts for the OrangeHRM application. Our testing efforts span functional, UI, and regression testing across various HR modules.
 
-🔗 Website: OrangeHRM
-We performed manual testing on the following modules:
-Testing Scope<br>
-✅ Login Module – Verified valid/invalid login scenarios.<br>
-✅ Dashboard – Checked UI elements and role-based access.<br>
-✅ Personal Details – Added, updated, and deleted personal records.<bR>
-✅ Contact Detailst – Added, updated, and deleted contact records.<br>
-✅ Emergency Contact –  Added, updated, and deleted Emergency records.<br>
-✅ Payroll System – Ensured salary calculations and deductions work correctly.<br>
- Testing Tools Used<br>
-Test Case Management: Excel<br>
+🔗 OrangeHRM Website
+✅ Testing Scope
+We have conducted manual testing on the following modules:
 
-Bug Tracking: JIRA<br>
+Module	Test Coverage Description
+Login Module	✔ Verified valid/invalid login scenarios
+Dashboard	✔ Checked UI elements and role-based access
+Personal Details	✔ Added, updated, and deleted personal records
+Contact Details	✔ Added, updated, and deleted contact records
+Emergency Contact	✔ Added, updated, and deleted emergency contact records
+Payroll System	✔ Ensured salary calculations and deductions function correctly
 
-Test Documentation: MS Word<br>
+🧪 Testing Tools Used
+Category	Tool Used
+Test Case Management	Microsoft Excel
+Bug Tracking	JIRA
+Test Documentation	Microsoft Word
+Browsers Used	Chrome v134.0.6998.89, Edge v134.0.3124.72
 
-Browsers Used: Chrome(Version 134.0.6998.89), Microsoft edge(Version 134.0.3124.72)<br>
+🤝 How to Contribute
+Want to help improve the test suite?
 
- How to Contribute?<br>
- 
-If you want to contribute by adding test scenarios or reporting issues, feel free to fork this repo and submit a pull request.
+Fork this repository.
 
+Add your test scenarios or report issues.
 
-
+Submit a pull request with your changes.
