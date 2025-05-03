@@ -19,19 +19,22 @@ Emergency Contact	✔ Added, updated, and deleted emergency contact records<br>
 ****
 Payroll System	✔ Ensured salary calculations and deductions function correctly<br>
 ****
+Testing Tools Used
 
-🧪 Testing Tools Used<br>
-Category	Tool Used<br>
-Test Case Management	Microsoft Excel<br>
-Bug Tracking	JIRA<br>
-Test Documentation	Microsoft Word<br>
-Browsers Used	Chrome v134.0.6998.89, Edge v134.0.3124.72<br>
+| Category                 | Tool Used                                      |
+| ------------------------ | ---------------------------------------------- |
+| **Test Case Management** | Microsoft Excel                                |
+| **Bug Tracking**         | JIRA                                           |
+| **Test Documentation**   | Microsoft Word                                 |
+| **Browsers Used**        | Chrome `v134.0.6998.89`, Edge `v134.0.3124.72` |
+
 
 🤝 How to Contribute<br>
+
 Want to help improve the test suite?<br>
 
 Fork this repository.<br>
 
 Add your test scenarios or report issues.
-****
+
 Submit a pull request with your changes.
