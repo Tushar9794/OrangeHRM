@@ -6,12 +6,19 @@ Welcome to the OrangeHRM Testing Repository! This project contains manual testin
 We have conducted manual testing on the following modules:<br>
 
 Module	Test Coverage Description<br>
+<br>
 Login Module	✔ Verified valid/invalid login scenarios<br>
+****
 Dashboard	✔ Checked UI elements and role-based access<br>
+****
 Personal Details	✔ Added, updated, and deleted personal records<br>
+****
 Contact Details	✔ Added, updated, and deleted contact records<br>
+****
 Emergency Contact	✔ Added, updated, and deleted emergency contact records<br>
+****
 Payroll System	✔ Ensured salary calculations and deductions function correctly<br>
+****
 
 🧪 Testing Tools Used<br>
 Category	Tool Used<br>
