@@ -1,30 +1,30 @@
 🧡 OrangeHRM Manual Testing Documentation
-Welcome to the OrangeHRM Testing Repository! This project contains manual testing artifacts for the OrangeHRM application. Our testing efforts span functional, UI, and regression testing across various HR modules.
+Welcome to the OrangeHRM Testing Repository! This project contains manual testing artifacts for the OrangeHRM application. Our testing efforts span functional, UI, and regression testing across various HR modules.<br>
 
 🔗 OrangeHRM Website
 ✅ Testing Scope
-We have conducted manual testing on the following modules:
+We have conducted manual testing on the following modules:<br>
 
-Module	Test Coverage Description
-Login Module	✔ Verified valid/invalid login scenarios
-Dashboard	✔ Checked UI elements and role-based access
-Personal Details	✔ Added, updated, and deleted personal records
-Contact Details	✔ Added, updated, and deleted contact records
-Emergency Contact	✔ Added, updated, and deleted emergency contact records
-Payroll System	✔ Ensured salary calculations and deductions function correctly
+Module	Test Coverage Description<br>
+Login Module	✔ Verified valid/invalid login scenarios<br>
+Dashboard	✔ Checked UI elements and role-based access<br>
+Personal Details	✔ Added, updated, and deleted personal records<br>
+Contact Details	✔ Added, updated, and deleted contact records<br>
+Emergency Contact	✔ Added, updated, and deleted emergency contact records<br>
+Payroll System	✔ Ensured salary calculations and deductions function correctly<br>
 
-🧪 Testing Tools Used
-Category	Tool Used
-Test Case Management	Microsoft Excel
-Bug Tracking	JIRA
-Test Documentation	Microsoft Word
-Browsers Used	Chrome v134.0.6998.89, Edge v134.0.3124.72
+🧪 Testing Tools Used<br>
+Category	Tool Used<br>
+Test Case Management	Microsoft Excel<br>
+Bug Tracking	JIRA<br>
+Test Documentation	Microsoft Word<br>
+Browsers Used	Chrome v134.0.6998.89, Edge v134.0.3124.72<br>
 
-🤝 How to Contribute
-Want to help improve the test suite?
+🤝 How to Contribute<br>
+Want to help improve the test suite?<br>
 
-Fork this repository.
+Fork this repository.<br>
 
 Add your test scenarios or report issues.
-
+****
 Submit a pull request with your changes.
